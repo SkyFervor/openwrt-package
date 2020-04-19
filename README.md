@@ -6,7 +6,7 @@
 
 使用方法：
 
-添加 src-git lienol https://github.com/Lienol/openwrt-package 到 OpenWRT源码根目录feeds.conf.default文件
+添加 src-git lienol dong50252409/openwrt-package 到 OpenWRT源码根目录feeds.conf.default文件
 
 使用上面源码请忽略上一步
 
