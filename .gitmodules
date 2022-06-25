@@ -1,0 +1,6 @@
+[submodule "luci-app-serverchan"]
+	path = luci-app-serverchan
+	url = https://github.com/tty228/luci-app-serverchan.git
+[submodule "luci-theme-argon"]
+	path = luci-theme-argon
+	url = https://github.com/jerrykuku/luci-theme-argon.git
