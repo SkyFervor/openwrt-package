@@ -10,11 +10,3 @@
 	path = luci-app-wechatpush
 	url = https://github.com/tty228/luci-app-wechatpush.git
 	branch = master
-[submodule "openwrt-baidupcs-web"]
-	path = openwrt-baidupcs-web
-	url = https://github.com/KFERMercer/openwrt-baidupcs-web.git
-	branch = master
-[submodule "luci-app-baidupcs-web"]
-	path = luci-app-baidupcs-web
-	url = https://github.com/KFERMercer/luci-app-baidupcs-web.git
-	branch = master
